@@ -9,13 +9,15 @@ To use this repo as a template:
 - [ ] Remove files which do not apply to your project
   - [ ] For Ruby projects:
     ```shell
-    rm .nvmrc .gitignore-node package.json yarn.lock
-    mv .gitignore-ruby .gitignore
+    rm -rf ./files-js
+    mv ./files-ruby/* .
+    rmdir ./files-ruby
     ```
   - [ ] For JavaScript / Node.js projects:
     ```shell
-    rm .ruby-version .gitignore-ruby Gemfile
-    mv .gitignore-node .gitignore
+    rm -rf ./files-ruby
+    mv ./files-js/* .
+    rmdir ./files-js
     ```
 - [ ] Replace all template strings (pattern: `{{LABEL}}`) with actual values
     ```shell
