@@ -65,6 +65,10 @@ For our code of conduct and more details on contributing to this project, please
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
+Releases are generated automatically using [Semantic Release](https://github.com/semantic-release/semantic-release).
+
+[INCLUDE: INSTRUCTIONS FOR CONFIGURING / USING SEMANTIC RELEASE]
+
 ## Authors
 
 [INCLUDE: PEOPLE WHO DIRECTLY CONTRIBUTED TO THIS PROJECT]
