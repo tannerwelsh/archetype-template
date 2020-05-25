@@ -36,29 +36,25 @@ To use this repo as a template:
 - [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
 - [LICENSE](LICENSE)
 - GitHub [Issue Templates](.github/ISSUE_TEMPLATE)
-  - for bugs
-  - for feature requests
+  - for bugs: [bug_report.md](.github/ISSUE_TEMPLATE/bug_report.md)
+  - for feature requests: [feature_request.md](.github/ISSUE_TEMPLATE/feature_request.md)
 - GitHub [Pull Request Templates](.github/PULL_REQUEST_TEMPLATE.md)
-
-
-- [ ] special links to add a PR
-- [ ] - [ ] special links to add an issue - see https://help.github.com/en/github/managing-your-work-on-github/about-automation-for-issues-and-pull-requests-with-query-parameters
-
 
 ## JavaScript / Node.js Files
 
-- [ ] [.gitignore-node](.gitignore-node)
+- [.gitignore-node](.gitignore-node)
   ```shell
   mv .gitignore-node .gitignore
   ```
-- [ ] [.nvmrc](.nvmrc)
-- [ ] [package.json](package.json)
+- [.nvmrc](.nvmrc)
+- [package.json](package.json)
+- [yarn.lock](yarn.lock)
 
 ## Ruby Files
 
-- [ ] [.gitignore-ruby](.gitignore-ruby)
+- [.gitignore-ruby](.gitignore-ruby)
   ```shell
   mv .gitignore-ruby .gitignore
   ```
-- [ ] [.ruby-version](.ruby-version)
-- [ ] [Gemfile](Gemfile)
+- [.ruby-version](.ruby-version)
+- [Gemfile](Gemfile)

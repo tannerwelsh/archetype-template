@@ -29,7 +29,7 @@ Don't want to read this whole doc, just have a question?
 
 Please don't file an issue to ask a question. You'll get faster results by using the resources below.
 
-{{LINKS_TO_CHAT_APP_OR_EMAIL_GROUP}}
+{{CHAT_APP_URL}}
 
 ## How Can I Contribute?
 
